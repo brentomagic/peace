@@ -7,7 +7,7 @@ A professional website for marketing and managing your FAML445 workshop series.
 This website includes all required pages for your assignment:
 
 - **index.html** - Home page with workshop overview
-- **sessions.html** - Detailed breakdown of each workshop session
+- **sessions.html** - Detailed breakdown of each workshop lesson
 - **schedule.html** - Complete schedule, dates, times, location, directions, and map
 - **contact.html** - Contact information and registration form
 - **about.html** - About the facilitator page
